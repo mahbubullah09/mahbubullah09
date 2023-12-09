@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=mahbubullah09&theme=merko&hide_border=true" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=mahbubullah09&theme=merko&border_radius=5&card_width=500" />
 
 
 
@@ -44,4 +44,4 @@
 - 🔭 I’m currently- A Front-end developer
 - 🌱 I’m currently- learning Next.js and Redux
 - 👯 I’m looking- To opurtunity to collaborate on open source projects
-- 🤔 I’m trying- To update my web 
+- 🤔 I’m trying- To update my web developlemt skills
