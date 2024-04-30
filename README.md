@@ -47,7 +47,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjss,tailwind,materialui,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,materialui,firebase,figma" />
   </a>
 </p>
 <p align="center">
