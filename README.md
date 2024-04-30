@@ -42,17 +42,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,ts" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjss,tailwind,materialui,firebase,figma" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,vercel" />
   </a>
 </p>
 
